@@ -1,5 +1,5 @@
 def square_array(array)
-  square_array.each |array|
+  square_array.each |array ** 2 |
 
 end
 
